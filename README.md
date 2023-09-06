@@ -3,7 +3,7 @@
 > Live demo [_here_](https://bankist-arrays-martagorska.netlify.app).
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
