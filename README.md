@@ -8,17 +8,13 @@
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Usage](#usage)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
 ## General Information
 Log in to the account and use different functionalities, almost like in an actual bank!
-
-| Account       | UserName | Password |
-| ------------- | -------- | -------- |
-| Admin Account | `js`     | `1111`   |
-| Guest Account | `jd`     | `2222`   |
 
 
 ## Features
@@ -47,7 +43,16 @@ Log in to the account and use different functionalities, almost like in an actua
    git clone https://github.com/martagorska-dev/bankist-arrays
    ```
 3. Open  *index.html*
-   
+
+
+## Usage
+Login data:
+
+| Account       | UserName | Password |
+| ------------- | -------- | -------- |
+| Admin Account | `js`     | `1111`   |
+| Guest Account | `jd`     | `2222`   |
+
 
 ## Acknowledgements
 This project was based on [this tutorial](https://www.udemy.com/course/the-complete-javascript-course/).
