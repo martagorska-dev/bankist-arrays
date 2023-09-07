@@ -1,5 +1,5 @@
 # 💶 BANKIST 💵 
-> Fictional online bank application created with Vanilla JavaScript.
+> Simple fictional online bank application created with Vanilla JavaScript.
 > Live demo [_here_](https://bankist-arrays-martagorska.netlify.app).
 
 ## Table of Contents
