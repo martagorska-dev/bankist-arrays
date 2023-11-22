@@ -18,12 +18,12 @@ Log in to the account and use different functionalities, almost like in an actua
 
 
 ## Features
-- Log in
-- Transfer money to other accounts 💶
-- Request a loan 💵
-- Delete an account 🔒
-- Log out timer ⏳
-- Sort movements 🔁
+- Loging in
+- Transfering money to other accounts 💶
+- Requesting a loan 💵
+- Deleting an account 🔒
+- Loging out timer ⏳
+- Sorting movements 🔁
 - Internationalize date & currency 📅 
 
 
